@@ -17,7 +17,7 @@ To utilize BlockAway, follow these steps:
 
 ![image](https://github.com/thepirateproxy/Safe-Browsing-with-BlockAway-Free-Web-Proxy/assets/169422974/2e05ddfd-fb78-487b-b8d9-19f845e4cd10)
 
-1. **Verify Original IP:** Before starting, you can check your original IP address at [ipinfo.io](https://ipinfo.io). For instance, it might show as 69.178.2.126 from Alaska, USA.
+1. **Verify Original IP:** Before starting, you can check your original IP address at ipinfo.io. For instance, it might show as 69.178.2.126 from Alaska, USA.
 2. **Visit BlockAway:** Open your web browser and go to [BlockAway](https://www.blockaway.net/).
 3. **Enter URL:** Input the desired website URL and click the “Go” button.
 4. **Confirm IP Change:** On the result page, you can use ipinfo to confirm that your IP address has been altered.
@@ -32,7 +32,7 @@ While BlockAway offers basic functionality, it has limitations typical of free w
 1. **Global Coverage**: 200 countries.
 2. **Competitive Pricing**: rotating residnetial proxies start $9/3GB.
 3. **Performance and Reliability**: 99.99% uptime.
-4. **[Free Proxy Trial](https://www.okeyproxy.com/proxy/?link=b63b57)**
+4. **[Free Proxy Trial](https://www.okeyproxy.com/proxy/?link=b63b57)**: new users can get a free proxy to test.
 
 In summary, while BlockAway is a convenient free web proxy, OkeyProxy provides a more secure and feature-rich alternative for those seeking enhanced online privacy and performance.
 
